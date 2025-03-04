@@ -1,0 +1,48 @@
+aiohappyeyeballs @ file:///home/conda/feedstock_root/build_artifacts/aiohappyeyeballs_1739175731979/work
+aiohttp @ file:///D:/bld/aiohttp_1740481456133/work
+aiosignal @ file:///home/conda/feedstock_root/build_artifacts/aiosignal_1734342155601/work
+asttokens==3.0.0
+async-timeout @ file:///home/conda/feedstock_root/build_artifacts/async-timeout_1733235340728/work
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1737819173731/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+comm==0.2.2
+debugpy==1.8.12
+decorator==5.2.1
+exceptiongroup==1.2.2
+executing==2.2.0
+frozenlist @ file:///D:/bld/frozenlist_1737645282131/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1733211830134/work
+ipykernel==6.29.5
+ipython==8.33.0
+jedi==0.19.2
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+loguru @ file:///D:/bld/loguru_1725349809084/work
+matplotlib-inline==0.1.7
+msgpack @ file:///D:/bld/msgpack-python_1725975182880/work
+multidict @ file:///D:/bld/multidict_1729065633457/work
+nest-asyncio==1.6.0
+numpy @ file:///D:/bld/numpy_1739425601835/work/dist/numpy-2.2.3-cp310-cp310-win_amd64.whl#sha256=8b608a83814037c4711896674254022aa7e25c2c965a0755d35b0ad417d01a20
+packaging==24.2
+parso==0.8.4
+platformdirs==4.3.6
+prompt_toolkit==3.0.50
+propcache @ file:///D:/bld/propcache_1737635531630/work
+psutil==7.0.0
+pure_eval==0.2.3
+Pygments==2.19.1
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1735698276679/work
+python-dateutil==2.9.0.post0
+pywin32==308
+pyzmq==26.2.1
+six==1.17.0
+stack-data==0.6.3
+svgwrite @ file:///home/conda/feedstock_root/build_artifacts/svgwrite_1734380181028/work
+tornado==6.4.2
+traitlets==5.14.3
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1733188668063/work
+vtk==9.3.1
+wcwidth==0.2.13
+win32_setctime @ file:///home/conda/feedstock_root/build_artifacts/win32_setctime_1733752454065/work
+wslink @ file:///home/conda/feedstock_root/build_artifacts/wslink_1740199482166/work
+yarl @ file:///D:/bld/yarl_1737575816981/work
